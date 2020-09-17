@@ -1,2 +1,22 @@
-# blog-universitario
-Creación de blog de eventos universitarios
+Titulo
+
+Descripcion
+
+Instalacion
+  Requisitos
+  Version 
+  Encargados
+
+
+Uso
+  Como se usa
+  Caracteristicas
+  
+Documentacion
+
+
+RoadMap
+
+
+
+Licencia
