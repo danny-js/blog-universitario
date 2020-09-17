@@ -1,22 +1,22 @@
-Titulo
+- Titulo
 
-Descripcion
+- Descripcion
 
-Instalacion
-  Requisitos
-  Version 
-  Encargados
+- Instalacion
+  - Requisitos
+  - Version 
+  - Encargados
 
 
-Uso
-  Como se usa
-  Caracteristicas
+- Uso
+  - Como se usa
+  - Caracteristicas
   
-Documentacion
+- Documentacion
 
 
-RoadMap
+- RoadMap
 
 
 
-Licencia
+- Licencia
